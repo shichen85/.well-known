@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.bscotch.bscotchpack"],
+             "appIDs": [ "MR4ASAGV6B.com.bscotch.bscotchpack"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -28,3 +28,7 @@
        ]
    }
 }
+
+ https://shichen85.github.io/buy/1234
+
+curl -v https://shichen85.github.io/.well-known/.well-known/apple-app-site-association
